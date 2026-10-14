@@ -22,8 +22,7 @@ dmpmuniz@linux:~$ exit
 
 ## `$ contato`
 
-- **email:** [dmp.muniz@gmail.com](mailto:dmp.muniz@gmail.com)
-- **github:** [github.com/dmpmuniz](https://github.com/dmpmuniz)
+**email:** [dmp.muniz@gmail.com](mailto:dmp.muniz@gmail.com)
 
 ---
 
