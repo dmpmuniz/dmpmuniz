@@ -1,16 +1,24 @@
 ## 👋 Oi, meu nome é Daniel Muniz
 
-Investigo, analiso e faço diagnósticos de hardware e sistemas — e, nas horas vagas, aplicações web e landing pages.
+Investigo, analiso e faço diagnósticos de hardware e sistemas.
+
+Nas horas vagas: aplicações web e landing pages.
 
 ### sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas. Comecei montando e consertando computadores, e sigo aprendendo — agora com agentes de IA e LLMs. IA acelera; quem conduz, revisa e valida sou eu. Aprendo na prática.
+Formado em Análise e Desenvolvimento de Sistemas. Comecei montando e consertando computadores, e sigo aprendendo — agora com agentes de IA e LLMs.
+
+IA acelera; quem conduz, revisa e valida sou eu. Aprendo na prática.
 
 ### meus apps
 
-**[OldButGold](https://github.com/dmpmuniz/OldButGold)** — wrapper que une SMART, badblocks e GPT para recuperar e certificar HDDs mecânicos: o que era um monte de comandos no terminal vira poucos passos.
+**[OldButGold](https://github.com/dmpmuniz/OldButGold)**
 
-**[AxonSync](https://axonsync.com.br)** — treinos com IA, gestão de alunos e execução offline. Nasceu de uma necessidade real do meu personal trainer.
+Wrapper que une SMART, badblocks e GPT para recuperar e certificar HDDs mecânicos: o que era um monte de comandos no terminal vira poucos passos.
+
+**[AxonSync](https://axonsync.com.br)**
+
+Treinos com IA, gestão de alunos e execução offline. Nasceu de uma necessidade real do meu personal trainer.
 
 ### contato
 
