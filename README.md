@@ -1,12 +1,10 @@
 ## 👋 Oi, meu nome é Daniel Muniz
 
-Investigo, analiso e faço diagnósticos de hardware e sistemas.
-
-Nas horas vagas: aplicações web e landing pages.
+Investigo, analiso e faço diagnósticos de hardware e sistemas e nas horas vagas: aplicações web e landing pages.
 
 ### sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas.<br>
+Formado em Análise e Desenvolvimento de Sistemas.
 Comecei montando e consertando computadores,<br>
 e sigo aprendendo — agora com agentes de IA e LLMs.<br>
 Aprendo na prática.
@@ -15,7 +13,7 @@ Aprendo na prática.
 
 **[OldButGold](https://github.com/dmpmuniz/OldButGold)**
 
-Wrapper que une SMART, badblocks e GPT<br>
+Wrapper que une SMART, badblocks e GPT
 para recuperar e certificar HDDs mecânicos:<br>
 o que era um monte de comandos no terminal<br>
 vira poucos passos.
@@ -27,7 +25,7 @@ Nasceu de uma necessidade real do meu personal trainer.
 
 **[ilhabela-legislacao](https://github.com/dmpmuniz/ilhabela-legislacao)**
 
-18 mil normas municipais de Ilhabela/SP em Markdown,<br>
+18 mil normas municipais de Ilhabela/SP em Markdown,
 com metadados e pacote pronto para o Google NotebookLM.<br>
 Projeto comunitário não oficial — antes de citar, confira a fonte oficial.
 
